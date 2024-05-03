@@ -1,7 +1,7 @@
 jobname job (123,&sysuid),'createps',
           class=s,msgclass=x,region=0m,msglevel=(1,1),notify=&sysuid
 //*****************************************************************//
-//*****************this pgm is to create a pa file*****************//
+//*****************this pgm is to create a ps file*****************//
 //*****************************************************************//
 //stepname exec pgm=iefbr14
 //
